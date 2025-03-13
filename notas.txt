@@ -1,2 +1,5 @@
 Login: falla al solicitar actualizar contraseña
 Luego de login, falla al aparecer actualizacion de terminos y condiciones
+
+
+prueba1
